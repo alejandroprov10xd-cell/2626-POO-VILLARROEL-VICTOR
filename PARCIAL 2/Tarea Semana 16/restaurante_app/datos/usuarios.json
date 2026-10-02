@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "U01",
+        "nombre": "Victor Villarroel",
+        "usuario": "admin",
+        "clave": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "U02",
+        "nombre": "Empleado de Caja",
+        "usuario": "empleado",
+        "clave": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "U03",
+        "nombre": "Cliente Frecuente",
+        "usuario": "cliente",
+        "clave": "1234",
+        "rol": "Cliente"
+    }
+]

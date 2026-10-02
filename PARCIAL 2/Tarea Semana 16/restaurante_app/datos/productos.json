@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "P01",
+        "nombre": "Encebollado mixto",
+        "categoria": "Plato fuerte",
+        "precio": 5.75,
+        "stock": 10
+    },
+    {
+        "codigo": "P02",
+        "nombre": "Camarones Al ajillo",
+        "categoria": "Plato fuerte",
+        "precio": 6.0,
+        "stock": 10
+    }
+]
